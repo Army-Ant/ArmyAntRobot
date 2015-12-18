@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<exam_ch_1>
+	<pinyin>
+		<q type="1" question="一" answer="yi" pts="5"></q>
+		<q type="1" question="二" answer="er" pts="5"></q>
+		<q type="1" question="三" answer="san" pts="5"></q>
+		<q type="1" question="四" answer="si" pts="5"></q>
+		<q type="1" question="五" answer="wu" pts="5"></q>
+		<q type="1" question="六" answer="liu" pts="5"></q>
+		<q type="1" question="七" answer="qi" pts="5"></q>
+		<q type="1" question="八" answer="ba" pts="5"></q>
+		<q type="1" question="九" answer="jiu" pts="5"></q>
+		<q type="1" question="十" answer="shi" pts="5"></q>
+		<q type="1" question="百" answer="bai" pts="5"></q>
+		<q type="1" question="千" answer="qian" pts="5"></q>
+		<q type="1" question="万" answer="wan" pts="5"></q>
+		<q type="1" question="亿" answer="yi" pts="5"></q>
+		<q type="1" question="〇" answer="ling" pts="5"></q>
+		<q type="1" question="零" answer="ling" pts="5"></q>
+		<q type="1" question="点" answer="dian" pts="5"></q>
+		<q type="1" question="负" answer="fu" pts="5"></q>
+		<q type="1" question="正" answer="zheng" pts="5"></q>
+		<q type="1" question="分" answer="fen" pts="5"></q>
+	</pinyin>
+	<choose>
+		
+	</choose>
+</exam_ch_1>
